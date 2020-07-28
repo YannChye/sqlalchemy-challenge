@@ -10,5 +10,5 @@ Folder structure include -
     * queries include - 
         1. ***Precipitation Analysis*** - past 12 months precipitation data
         2. ***Station analysis*** - data from the most active weather station
-        3. **Bonus analyses *Temperature & Rainfall Analyses*** - explore weather data during a proposed trip date
+        3. **Bonus - *Temperature & Rainfall Analyses*** - explore weather data during a proposed trip date
 * **app.py** file - Flask API to query climate data from the dataset
